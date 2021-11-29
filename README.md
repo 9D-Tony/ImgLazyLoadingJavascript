@@ -5,7 +5,8 @@ Works by getting the image tags which have a data-src tag instead of a src tag o
 
 This requires javascript if javaascript is disabled then the lazyloading images won't load.
 
-Image credits:
+<h2>Image credits:</h2>
+
 Horse: https://www.freeimages.com/photo/horse-1393073
 
 Butterfly: https://www.freeimages.com/photo/butterfly-1392408
