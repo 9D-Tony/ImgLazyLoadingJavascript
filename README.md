@@ -5,6 +5,15 @@ Works by getting the image tags which have a data-src tag instead of a src tag o
 
 This requires javascript if javaascript is disabled then the lazyloading images won't load.
 
+
+<br>
+<br>
+
+example:
+
+
+![a gif of html page scrolling down](https://i.imgur.com/6ELS7hJ.gif)
+
 <h2>Image credits:</h2>
 
 Horse: https://www.freeimages.com/photo/horse-1393073
