@@ -7,8 +7,11 @@ This requires javascript if javaascript is disabled then the lazyloading images 
 
 Image credits:
 Horse: https://www.freeimages.com/photo/horse-1393073
+
 Butterfly: https://www.freeimages.com/photo/butterfly-1392408
+
 Goat: https://www.freeimages.com/photo/my-beloved-mountains-2-1375135
+
 Rope Knot: https://www.freeimages.com/photo/hunter-s-bend-1316926
 
 
